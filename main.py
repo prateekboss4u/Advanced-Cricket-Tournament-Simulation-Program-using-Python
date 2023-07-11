@@ -102,6 +102,11 @@ class Commentator:
     
 
 class Match:
+    """
+     This class will simulate an individual cricket match. It will use objects of the Teams, Field, and Umpire classes and should have methods to start the match, change innings, and end the match.
+
+    """
+    
     def __init__(self, team1, team2, field):
         self.team1 = team1
         self.team2 = team2
