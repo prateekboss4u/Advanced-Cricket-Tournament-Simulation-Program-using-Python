@@ -5,7 +5,7 @@ The goal of this assignment is to develop a Python program that simulates a cric
 Program Overview
 The program consists of the following key classes:
 
-Player: Represents a player in a cricket team, with attributes such as name, bowling, batting, fielding, running, and experience.
+h Player: Represents a player in a cricket team, with attributes such as name, bowling, batting, fielding, running, and experience.
 Team: Represents a cricket team, with methods for selecting a captain, sending the next player to the field, choosing a bowler, and managing the batting order.
 Field: Represents the field conditions, including size, fan ratio, pitch conditions, and home advantage.
 Umpire: Handles the umpiring and scoring of the match, predicting the outcome of a ball based on player stats.
